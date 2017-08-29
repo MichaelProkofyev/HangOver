@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"HTML5",
+		"LinuxNoEditor"
+	]
+}
